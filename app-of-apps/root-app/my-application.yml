@@ -13,7 +13,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/janeosaka/GCE2
+    repoURL: https://github.com/janeosaka/GCE2.git
     targetRevision: HEAD
     path: ./app-of-apps/my-app-list
    
